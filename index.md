@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+给我最爱的小玉子
 
-You can use the [editor on GitHub](https://github.com/DNDKS/-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DNDKS/-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![30bcb0108f18d7c5](https://user-images.githubusercontent.com/91063747/134009588-fd9f6eb7-29dc-411e-b183-914202ab180d.jpg)
+![31c9f85d4fbfcb8b](https://user-images.githubusercontent.com/91063747/134009595-4b05b65f-5c51-4ec3-a31f-5c78c3d6c4e4.jpg)
+![-35df5f802004798](https://user-images.githubusercontent.com/91063747/134009609-45aa9e46-46e9-491a-938f-9a5b50de62a5.jpg)
+![49f88c8c839c2c00](https://user-images.githubusercontent.com/91063747/134009617-80d406e3-84da-4736-9d33-9fa5bf820588.jpg)
+![59f7596959b6a40e](https://user-images.githubusercontent.com/91063747/134009627-c38de469-09b6-4083-92f3-43b02be3eb66.jpg)
+![-224fa15213657010](https://user-images.githubusercontent.com/91063747/134009660-a3170a9a-ef06-42cb-ac52-3790aa641f49.jpg)
